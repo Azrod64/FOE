@@ -3,9 +3,9 @@
 Un bot simple pour automatiser certaines actions dans **Forge of Empires** en utilisant **PyAutoGUI**.
 
 ## ✅ Fonctionnalités
-- Détection d'images (assets) à l'écran
+- Détection des production d'or et de marchandises
 - Clic automatique sur les éléments trouvés
-- Interaction avec le clavier (ex : appui sur "1" après une action)
+- Ajout automatique en file d'attentes pour les marchandises
 
 ---
 
